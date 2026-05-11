@@ -7,10 +7,14 @@
 *Para ejecutar el proyecto, abra dos terminales: una en la carpeta del backend y otra en la carpeta frontend.
 
 *Ejecutar
-git clone <vr-in-situ-prueba-frontend>
-cd backend-vris-final
-npm install
-npm run dev
+
+*git clone <vr-in-situ-prueba-frontend>
+
+*cd backend-vris-final
+
+*npm install
+
+*npm run dev
 
 *He configurado el acceso a la base de datos de MongoDB Atlas para permitir conexiones desde 
 cualquier IP (0.0.0.0/0).
